@@ -1,14 +1,16 @@
 ---
 key: links
 data:
-  - label: Chat with us on WhatsApp 💬
-    url: https://wa.me/5545991328593
-  - label: Follow us on Instagram 📸
-    url: https://instagram.com/mars.collective
-  - label: See our portfolio on Behance 🎨
-    url: https://www.behance.net/marscollective
-  - label: See what we're coding on Github 🧑‍💻
-    url: https://github.com/marscollective
-  - label: Like us on Facebook 👍
-    url: https://www.facebook.com/marscollective.co
+  - label: Signature
+    url: https://thesignatureclothing.co.uk
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/haris-nazir/
+  - label: Instagram
+    url: https://www.instagram.com/haris_nazir/
+  - label: Twitter 
+    url: https://twitter.com/theharisnazir?lang=en
+  - label: Reckon Digital
+    url: https://reckondigital.com/
+  - label: MIT PathCheck
+    url: https://pathcheck.mit.edu/
 ---
